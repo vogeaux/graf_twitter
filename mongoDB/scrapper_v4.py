@@ -125,9 +125,9 @@ list1 = ["#Arthaud",
 "#Poutou",
 "#Dupont-Aignan"]
 
-#blouque pour la liste qui est au dessus
+#bloucle pour la liste qui est au dessus
 
-#blouque pour la les nombre de jours
+#bloucle pour la les nombre de jours
 
 for a in list1:
     print(a)
